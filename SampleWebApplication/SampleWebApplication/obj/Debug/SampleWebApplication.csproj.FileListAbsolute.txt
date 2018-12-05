@@ -1,0 +1,5 @@
+C:\ViGDN_4517\Virtual GDN\COMPONENTS\Location\MyWork\SampleWebApplication\SampleWebApplication\bin\SampleWebApplication.dll
+C:\ViGDN_4517\Virtual GDN\COMPONENTS\Location\MyWork\SampleWebApplication\SampleWebApplication\bin\SampleWebApplication.pdb
+C:\ViGDN_4517\Virtual GDN\COMPONENTS\Location\MyWork\SampleWebApplication\SampleWebApplication\obj\Debug\SampleWebApplication.csprojResolveAssemblyReference.cache
+C:\ViGDN_4517\Virtual GDN\COMPONENTS\Location\MyWork\SampleWebApplication\SampleWebApplication\obj\Debug\SampleWebApplication.dll
+C:\ViGDN_4517\Virtual GDN\COMPONENTS\Location\MyWork\SampleWebApplication\SampleWebApplication\obj\Debug\SampleWebApplication.pdb
